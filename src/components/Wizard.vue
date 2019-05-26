@@ -231,7 +231,7 @@ export default {
   display: block;
   width: 16px;
   height: 16px;
-  background-color: #51abe4;
+  background-color: #000;
   border-radius: 50%;
   border: 3px solid #fff;
   position: absolute;
